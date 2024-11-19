@@ -1,0 +1,35 @@
+@use "./modules/modules";
+
+
+
+.mainwrapp {
+    .mainwrapp__h1wrapp {
+        padding-bottom: 200px;
+        h1 {
+            font-size: 30px;
+            font-weight: 700;
+        }
+    }
+    .mainwrapp__myDesign {
+        height: 600px;
+        .mainwrapp__myDesign__wrapp {
+            .mainwrapp__title {
+
+            }
+            .mainwrapp__tumbnail {
+
+            }
+        }
+    }
+
+    .mainwrapp__otherDesign {
+        .mainwrapp__otherDesign__wrapp {
+            .mainwrapp__title {
+                
+            }
+            .mainwrapp__tumbnail {
+
+            }
+        }
+    }
+}
